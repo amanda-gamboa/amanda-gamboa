@@ -22,16 +22,17 @@ My focus is on Object-Oriented Programming (OOP), Data Validation, Database Desi
 **Software Engineering & Workflow:**
 `Git` `GitHub` `SOLID Principles` `Unittest` `Linux/Bash` `Scrum`
 
-<!--
+
 
 ---
 
 ### 📂 Featured Projects
 
-**[project name](link)**
-Description
-`Technologies`
+**[order_management_system](https://github.com/amanda-gamboa/order-management-system)**
+A backend project built with Python and SQLAlchemy. The project focuses on relational data modeling, database relationships, and data integrity constraints.
+`Python` `SQLAlchemy`
 
+<!--
 
 **amanda-gamboa/amanda-gamboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
