@@ -1,49 +1,41 @@
 # Hi there, I'm Amanda 👋
 
-### Backend Software Engineer | Python & SQL
+### Backend Developer | Python, FastAPI & SQL
 
-I am a Software Developer focused on building clean and maintainable backend systems. 
-My focus is on Object-Oriented Programming (OOP), Data Validation, Database Design, and SOLID Principles.
+I am a Software Developer focused on building clean and maintainable backend systems.
+My focus is on Object-Oriented Programming (OOP), REST API Development, Data Validation, Database Design, and SOLID Principles.
 
-- 🔭 Currently working on: Building modular Python applications and database models.
-- 🎯 Focus: Writing clean, testable code and implementing solid software architectures.
-- 📫 How to reach me: [amandagamboa.tech@gmail.com]
+- 🔭 Currently working on: Building a modular order management backend with Python and FastAPI.
+- 🎯 Focus: Writing clean, testable code and implementing maintainable software architectures.
+- 📫 How to reach me: [amandagamboa.tech@gmail.com](mailto:amandagamboa.tech@gmail.com)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Core:**
-`Python 3` `SQL` `Pydantic` `Data Structures` `OOP`
+`Python 3` `SQL` `Data Structures` `OOP`
+
+**Backend & APIs:**
+`FastAPI` `Pydantic` `REST API Development`
 
 **Databases & ORM:**
 `MySQL` `SQLAlchemy`
 
+**Testing:**
+`pytest` `unittest`
+
 **Software Engineering & Workflow:**
-`Git` `GitHub` `SOLID Principles` `Unittest` `Linux/Bash` `Scrum`
-
-
+`Git` `GitHub` `SOLID Principles` `Linux/Bash` `Scrum`
 
 ---
 
 ### 📂 Featured Projects
 
-**[order_management_system](https://github.com/amanda-gamboa/order-management-system)**
-A backend project built with Python and SQLAlchemy. The project focuses on relational data modeling, database relationships, and data integrity constraints.
-`Python` `SQLAlchemy`
+**[Order Management System](https://github.com/amanda-gamboa/order-management-system)**
 
-<!--
+Backend application for order management built with Python, FastAPI, SQLAlchemy, and MySQL.
 
-**amanda-gamboa/amanda-gamboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The project focuses on REST API development, relational data modeling, database relationships, and data integrity constraints. It follows a layered architecture separating API endpoints, business logic, data access, ORM models, and Pydantic schemas.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` `FastAPI` `Pydantic` `SQLAlchemy` `MySQL` `pytest`
