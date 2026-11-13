@@ -19,14 +19,17 @@ My focus is on Object-Oriented Programming (OOP), REST API Development, Data Val
 **Backend & APIs:**
 `FastAPI` `Pydantic` `REST API Development`
 
-**Databases & ORM:**
-`MySQL` `SQLAlchemy`
+**Databases, ORM & Migrations:**
+`MySQL` `SQLAlchemy` `Alembic`
 
 **Testing:**
 `pytest` `unittest`
 
+**Tools & Development Environment:**
+`Git` `GitHub` `Docker` `Linux` `Bash`
+
 **Software Engineering & Workflow:**
-`Git` `GitHub` `SOLID Principles` `Linux/Bash` `Scrum`
+`SOLID Principles` `Scrum`
 
 ---
 
