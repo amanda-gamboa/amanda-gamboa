@@ -41,4 +41,4 @@ Backend application for order management built with Python, FastAPI, SQLAlchemy,
 
 The project focuses on REST API development, relational data modeling, database relationships, and data integrity constraints. It follows a layered architecture separating API endpoints, business logic, data access, ORM models, and Pydantic schemas.
 
-`Python` `FastAPI` `Pydantic` `SQLAlchemy` `MySQL` `pytest`
+`Python` `FastAPI` `Pydantic` `SQLAlchemy` `MySQL` `pytest` `Alembic`
